@@ -5,16 +5,17 @@ One of the most common problems encountered when trying to decode IR signals is 
 
 ![poormansirreceiver2_cc](https://cloud.githubusercontent.com/assets/2480569/3489938/520688d4-0550-11e4-90f3-e67f98acfce9.png)
 
-License
--------
+Licenses
+--------
 
-PoorMakers_IR_Receiver.ino:
+**PoorMakers_IR_Receiver.ino**
 
 Author: AnalysIR, Copyright: AnalysIR
 Free to use, provided AnalysIR is credited and a link to http://www.AnalysIR.com/blog is included in the source and any related article or publication.
 
 Note: I (probonopd) am not involved with or related to AnalysIR in any way, but I assume that the license above allows me to mirror this project here.
 
-analyze_using_irdb.py:
+**analyze_using_irdb.py**
+
 Author: probonopd, Copyright: probonopd
 Free to use, provided irdb.tk is credited and a link to http://irdb.tk is included in the source and any related article or publication.
