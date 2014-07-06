@@ -10,3 +10,5 @@ Author: AnalysIR
 Copyright: AnalysIR
 
 Free to use, provided AnalysIR is credited and a link to http://www.AnalysIR.com/blog is included in the source and any related article or publication.
+
+Note: I (probonopd) am not involved with or related to AnalysIR in any way, but I assume that the license above gives me the right to mirror this project here.
