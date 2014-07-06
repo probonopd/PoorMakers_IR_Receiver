@@ -8,9 +8,13 @@ One of the most common problems encountered when trying to decode IR signals is 
 License
 -------
 
-Author: AnalysIR
-Copyright: AnalysIR
+PoorMakers_IR_Receiver.ino:
 
+Author: AnalysIR, Copyright: AnalysIR
 Free to use, provided AnalysIR is credited and a link to http://www.AnalysIR.com/blog is included in the source and any related article or publication.
 
 Note: I (probonopd) am not involved with or related to AnalysIR in any way, but I assume that the license above allows me to mirror this project here.
+
+analyze_using_irdb.py:
+Author: probonopd, Copyright: probonopd
+Free to use, provided irdb.tk is credited and a link to http://irdb.tk is included in the source and any related article or publication.
